@@ -20,6 +20,8 @@
   <a href="https://vk.com/feed">
   <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
   </a> 
+  
+**Инструменты, которыми я владею:**
 
 **Мои сертификаты Нетологии:**
 - Жизненный цикл разработки ПО (https://netology.ru/sharing/48fbe212d69176e10a287c20d08f2209?utm_source=social&utm_campaign=certificate_lms)
