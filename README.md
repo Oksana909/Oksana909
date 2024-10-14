@@ -22,7 +22,14 @@
   </a> 
   
 **Инструменты, которыми я владею:**
-
+- UML
+- BPMN
+- JIRA
+- Git
+- SQL
+- Miro
+- Figma
+  
 **Мои сертификаты Нетологии:**
 - Жизненный цикл разработки ПО (https://netology.ru/sharing/48fbe212d69176e10a287c20d08f2209?utm_source=social&utm_campaign=certificate_lms)
 - Работа в команде по Agile (https://netology.ru/sharing/eac670840af3700819456b46a57d0b9e?utm_source=social&utm_campaign=certificate_lms)
