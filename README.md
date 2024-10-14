@@ -29,6 +29,13 @@
 - SQL
 - Miro
 - Figma
+- 
+**Выполненные проекты и домашние задания:**
+- Git (https://github.com/Oksana909/NeuroStartUp/blob/feature/code-documentation/README.md)
+- Git (https://github.com/Oksana909/New-rep)
+- Прототипирование интерфейсов (https://www.figma.com/design/f5BaWYFMe0OmGLOq7ZPTla/ДЗ_Прил.расходов_2?node-id=0-1&node-type=canvas&t=QV0lKBbQ3OfvKnBG-0)
+- МОделирование бизнес-процессов (https://u.netology.ru/backend/uploads/2024/3/lms/tasks/homework_solutions/file/4297459/Итог_2.jpg?ts=1709365118&_gl=1*p9d5y3*_gcl_au*MTA2NjQ1MTcxNy4xNzI4ODQwOTI2)
+- Интеграция систем и документирование API (https://app.swaggerhub.com/apis/OKSIDJEN7/API/1.0.0#/)
   
 **Мои сертификаты Нетологии:**
 - Жизненный цикл разработки ПО (https://netology.ru/sharing/48fbe212d69176e10a287c20d08f2209?utm_source=social&utm_campaign=certificate_lms)
