@@ -19,7 +19,12 @@
 
 - :zap: Люблю путешествовать и узнавать что-то новое.
 
-- :mailbox:Как со мной связаться: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:Как со мной связаться:
+</div>  
+<div id="badges">
+  <a href="https://vk.com/feed">
+  <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
+  </a> 
 
 **Мои сертификаты Нетологии:**
 - Жизненный цикл разработки ПО (https://netology.ru/sharing/48fbe212d69176e10a287c20d08f2209?utm_source=social&utm_campaign=certificate_lms)
