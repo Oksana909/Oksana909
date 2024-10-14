@@ -41,4 +41,9 @@
 - Интеграция систем и API (https://netology.ru/sharing/fbaa8aa4c9c41dd9ade1b6a3ac14890e?utm_source=social&utm_campaign=certificate_lms)
 - Тест и развертывание ПО (https://netology.ru/sharing/82706658d314c6d877bef655e31b8789?utm_source=social&utm_campaign=certificate_lms)
 - Документирование в IT (https://netology.ru/sharing/5fd4cf0c60f795521f1fe4d3b2fa7515?utm_source=social&utm_campaign=certificate_lms)
-- Итоговая работа ()
+  
+**Итоговый проект:**
+- Задание 
+- Спецификация требований к ПО (https://docs.google.com/document/d/1K709kiDCVe8YSKIdmTHlb9EiXBxeGgLn/edit)
+- Презентация (https://docs.google.com/presentation/d/1GlxbGi7JytztITs2jhriEruWr-yKcPJ5/edit#slide=id.p7)
+
