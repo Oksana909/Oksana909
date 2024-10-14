@@ -54,4 +54,5 @@
 - Задание (https://docs.google.com/document/d/1-23YEzygc-Xr-8X0XgZRleXKCLAPxe43k99_RFmbvOQ/edit?tab=t.0)
 - Спецификация требований к ПО (https://docs.google.com/document/d/1K709kiDCVe8YSKIdmTHlb9EiXBxeGgLn/edit)
 - Презентация (https://docs.google.com/presentation/d/1GlxbGi7JytztITs2jhriEruWr-yKcPJ5/edit#slide=id.p7)
+- Сертификат об окончании обучения (https://netology.ru/sharing/7152dfa486755027b1a3286f2dc08908?utm_source=social&utm_campaign=certificate_lms)  
 
