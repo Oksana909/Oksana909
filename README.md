@@ -1,5 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 - 👋 Привет, я Долголевец Оксана, я системный аналитик. 
-- Мои первые проекты:
+
+- Сетификаты Нетологии:
 - Жизненный цикл разработки ПО (https://netology.ru/sharing/48fbe212d69176e10a287c20d08f2209?utm_source=social&utm_campaign=certificate_lms)
 - Работа в команде по Agile (https://netology.ru/sharing/eac670840af3700819456b46a57d0b9e?utm_source=social&utm_campaign=certificate_lms)
 - Анализ требований (https://netology.ru/sharing/f16f8aa470c8a8c3fb2a6693f48f0ed9?utm_source=social&utm_campaign=certificate_lms)
