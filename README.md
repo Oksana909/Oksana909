@@ -29,7 +29,7 @@
 - SQL
 - Miro
 - Figma
-- 
+  
 **Выполненные проекты и домашние задания:**
 - Git (https://github.com/Oksana909/NeuroStartUp/blob/feature/code-documentation/README.md)
 - Git (https://github.com/Oksana909/New-rep)
