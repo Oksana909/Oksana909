@@ -56,3 +56,4 @@
 - Презентация (https://docs.google.com/presentation/d/1GlxbGi7JytztITs2jhriEruWr-yKcPJ5/edit#slide=id.p7)
 - Сертификат об окончании обучения (https://netology.ru/sharing/7152dfa486755027b1a3286f2dc08908?utm_source=social&utm_campaign=certificate_lms)  
 
+**Буду рада нашему общему сотрудничеству!**
